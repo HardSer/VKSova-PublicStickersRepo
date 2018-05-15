@@ -40,6 +40,22 @@
 		"version": 1
 	},
 	{
+		"id": "psr_resist",
+		"name": "Цифровое Сопротивление",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/resist.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/resist_thumb.png",
+		"version": 1
+	},
+	{
+		"id": "psr_ddlc",
+		"name": "Сайори из DDLC (неоф.)",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/ddlc.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/ddlc_thumb.png",
+		"version": 1
+	},
+	{
 		"id": "psr_bund",
 		"name": "Бунд",
 		"description": "",
