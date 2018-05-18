@@ -56,6 +56,14 @@
 		"version": 1
 	},
 	{
+		"id": "psr_kittymemes",
+		"name": "Мемы про котов",
+		"description": "",
+		"url": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/packs/kittymemes.zip",
+		"icon": "https://raw.githubusercontent.com/HardSer/VKSova-PublicStickersRepo/master/thumbs/kittymemes_thumb.png",
+		"version": 1
+	},
+	{
 		"id": "psr_bund",
 		"name": "Бунд",
 		"description": "",
